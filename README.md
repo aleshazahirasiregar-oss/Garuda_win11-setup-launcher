@@ -15,4 +15,5 @@ Tujuan: mempermudah pengguna agar tidak perlu klik manual `setup.exe`.
    ```bash
    git clone https://github.com/aleshazahirasiregar-oss/Win11-Setup-Launcher.git
 
-## link 🔗 warning: https://github.com/aleshazahirasiregar-oss/Garuda_win11-setup-launcher/blob/main/WARNING.md
+## link 🔗 warning 👇
+https://github.com/aleshazahirasiregar-oss/Garuda_win11-setup-launcher/releases/tag/Mgr
