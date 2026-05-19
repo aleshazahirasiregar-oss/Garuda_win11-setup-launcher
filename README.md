@@ -13,4 +13,4 @@ Tujuan: mempermudah pengguna agar tidak perlu klik manual `setup.exe`.
 2. Simpan ISO di folder, misalnya: `C:\Users\Public\Downloads\Win11.iso`.
 3. Clone repo ini:
    ```bash
-   git clone https://github.com/username/Win11-Setup-Launcher.git
+   git clone https://github.com/aleshazahirasiregar-oss/Win11-Setup-Launcher.git
